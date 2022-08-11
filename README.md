@@ -1,4 +1,4 @@
-<a href="https://github.com/Abraham-Stuff/PythonforDataScience/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/Abraham-Stuff/PythonforDataScience"></a>
+<a href="https://github.com/Abraham-Stuff/PythonforDataScience/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/Abraham-Stuff/PythonforDataScience"></a><a href="https://github.com/Abraham-Stuff/PythonforDataScience/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Abraham-Stuff/PythonforDataScience"></a><a href="https://github.com/Abraham-Stuff/PythonforDataScience/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Abraham-Stuff/PythonforDataScience"></a>
 # Python-for-Data-Computational-1
 **Hello My name is Abraham Tambac**
 
