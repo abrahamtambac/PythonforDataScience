@@ -1,3 +1,4 @@
+https://img.shields.io/github/issues/Abraham-Stuff/PythonforDataScience
 # Python-for-Data-Computational-1
 **Hello My name is Abraham Tambac**
 
