@@ -1,5 +1,5 @@
 <a href="https://github.com/Abraham-Stuff/PythonforDataScience/blob/main/LICENSE">&nbsp;<img alt="GitHub license" src="https://img.shields.io/github/license/Abraham-Stuff/PythonforDataScience"></a>&nbsp;<a href="https://github.com/Abraham-Stuff/PythonforDataScience/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Abraham-Stuff/PythonforDataScience"></a>&nbsp;<a href="https://github.com/Abraham-Stuff/PythonforDataScience/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Abraham-Stuff/PythonforDataScience"></a>
-# Python-for-Data-Computational-1
+# Python-for-Data-Computational-1. 
 **Hello My name is Abraham Stuff**
 
 This repository has been created for understanding Basic Python for Computational
